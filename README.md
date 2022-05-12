@@ -21,12 +21,12 @@ Jrebel mybatisplus热加载插件，支持重新加载修改后的SQL映射
 
 # 如何使用
 
-已开发IDEA的插件 [jrebel-mybatisplus-idea-plugin](https://github.com/SweetInk/jrebel-mybatisplus-idea-plugin). 安装插件后即可使用，不需要再配置了。
+已开发IDEA的插件 [jrebel-mybatisplus-idea-plugin](https://github.com/jsyond/jrebel-mybatisplus-idea-plugin). 安装插件后即可使用，不需要再配置了。
 
 ## 构建插件
 
  ``` shell
-git clone git@github.com:SweetInk/jrebel-mybatisplus.git
+git clone git@github.com:jsyond/jrebel-mybatisplus.git
 cd jrebel-mybatisplus
 mvn -f jr-mybatisplus/pom.xml clean package
 ```
